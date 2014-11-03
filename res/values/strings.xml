@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_more_information">More Information</string>
+    <string name="actionbar_title">Modern Art UI</string>
+    <string name="learn_more">Inspired by the works of all the abstract artists. Click below to learn more!</string>
+
+</resources>
